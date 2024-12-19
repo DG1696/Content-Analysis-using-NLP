@@ -1,4 +1,5 @@
-*Masters Research Project*
+Masters in Data Science and Business Analytics Research Project.
+
 Project Title: Unravelling User Insights through Topic Modeling
 
 Project Overview:
@@ -16,6 +17,8 @@ The goal was to,
 - Automate data analysis to improve efficiency and reduce manual effort.
 - Generate actionable insights that could inform decision-making.
 - Tools & Technologies Used
+
+Data Visualization snapshots.
 
 ![image](https://github.com/user-attachments/assets/bed8ddb0-aa05-48ee-9d93-f48b60e683c3)
 ![image](https://github.com/user-attachments/assets/a6b039d8-d376-4612-871a-c87c3c8e5baf)
