@@ -1,4 +1,4 @@
-Masters in Data Science and Business Analytics Research Project.
+Master's Thesis in Data Science and Business Analytics
 
 Project Title: Unravelling User Insights through Topic Modeling
 
@@ -20,13 +20,18 @@ The goal was to,
 
 Data Visualization snapshots.
 
-![image](https://github.com/user-attachments/assets/bed8ddb0-aa05-48ee-9d93-f48b60e683c3)
-![image](https://github.com/user-attachments/assets/a6b039d8-d376-4612-871a-c87c3c8e5baf)
-![image](https://github.com/user-attachments/assets/2888da8f-dd6f-4b47-ab50-6a4c1b3a0481)
-![image](https://github.com/user-attachments/assets/036f2f84-5238-4a18-9a9b-95198abfbd69)
-![image](https://github.com/user-attachments/assets/03fa99ea-d5fe-4dd0-ab01-dd326debf9ba)
-![image](https://github.com/user-attachments/assets/db4b018e-0971-41ec-9a2d-09309c5027fd)
-![image](https://github.com/user-attachments/assets/32784a7a-95d9-4c20-a06e-52dae610981c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bed8ddb0-aa05-48ee-9d93-f48b60e683c3" width="300" />
+  <img src="https://github.com/user-attachments/assets/a6b039d8-d376-4612-871a-c87c3c8e5baf" width="300" />
+  <img src="https://github.com/user-attachments/assets/2888da8f-dd6f-4b47-ab50-6a4c1b3a0481" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/036f2f84-5238-4a18-9a9b-95198abfbd69" width="300" />
+  <img src="https://github.com/user-attachments/assets/03fa99ea-d5fe-4dd0-ab01-dd326debf9ba" width="300" />
+  <img src="https://github.com/user-attachments/assets/db4b018e-0971-41ec-9a2d-09309c5027fd" width="300" />
+  <img src="https://github.com/user-attachments/assets/32784a7a-95d9-4c20-a06e-52dae610981c" width="300" />
+</p>
 
 
 Tools used throughout the project to clean, preprocess, analyze, and visualize the data:
