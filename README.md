@@ -1,7 +1,8 @@
 Master's Thesis in Data Science and Business Analytics
 
 Project Title: Unravelling User Insights through Topic Modeling 
-Report Link - Topic_Modeling_on_the_application_of_British_Telecommunication_Data(Msc Thesis) pdf.pdf
+
+Report Link -(https://github.com/DG1696/Content-Analysis-using-NLP/blob/07654a901e6196408145fd048ab85f17589ffa94/Topic_Modeling_on_the_application_of_British_Telecommunication_Data(Msc%20Thesis)%20pdf.pdf)
 
 Project Overview:
 This project involves the use of Natural Language Processing (NLP) techniques and Topic Modeling to analyze user-generated content from the BT Community Forum. The aim of this project is to extract actionable insights and identify underlying patterns in user discussions, using advanced topic modeling algorithms. By automating the process of data analysis, the project reduces the manual effort of analyzing large datasets and provides a more efficient way to extract meaningful information.
